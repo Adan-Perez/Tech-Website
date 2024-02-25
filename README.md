@@ -32,7 +32,7 @@
 
 ## Demo 🚀
 
-[Tech Website - Next.js]()
+[Tech Website - Next.js](https://adanperez-tech-website-nextjs.netlify.app/)
 
 ---
 
